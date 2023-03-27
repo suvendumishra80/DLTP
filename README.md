@@ -8,7 +8,7 @@ The supported extensions are:
 
 ## Install
 
-Before we begain, Terraform should be already installed and the required configurations are in place:
+Before we start, Terraform should have been already installed and the required configurations are in place:
 
 Add service account JSON key in the code env. with the name "mygcpservicekey.json".
 Enable Cloud Function API and Cloud Build API for your GCP project.
